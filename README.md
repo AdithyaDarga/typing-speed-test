@@ -15,4 +15,4 @@ Test your typing speed and accuracy using this fun game built with HTML, CSS, an
 - Vanilla JavaScript
 
 ## 🔗 Live Demo
-https://AdithyaDarga.github.io/typing-speed-test/
+[Check your Typing speed](https://AdithyaDarga.github.io/typing-speed-test/)
